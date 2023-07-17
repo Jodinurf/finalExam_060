@@ -172,7 +172,7 @@ int main() {
 //		Algoritma STACK menggunakan prinsip LIFO yaitu Last in first out dimana yang terakhir masuk ialah yang keluar pertama (diproses terlebih dahulu)
 //		Algoritma Queue menggunakan prinsip FIFO yaitu first in first out dimana yang pertama kali masuk ialah yang akan keluar pertama (diproses terlebih dahulu)
 //4. Jelaskan pada saat bagaimana harus menggunakan algorithma stack?
-// algoritma stack dapat digunakan ketika
+// algoritma stack dapat digunakan ketika sebuah data yang terakhir masuk dan yang pertama keluar
 //5 a. jumlah kedalaman dari struktur tersebut adalah 5
 //	b. 
 // in = 1 5 8 10 12 15 20 22 25 28 30 36 38 40 45 48 50
